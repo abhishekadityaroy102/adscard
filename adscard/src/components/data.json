@@ -1,0 +1,16 @@
+[
+    {"date":"21 May 2022",
+    "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpZO26LnhrL02bFeEkaF6RX7ioRRbDWdG8cQYl2zXsHDkSv-JxnIcMS1Id2kVVnCOheqg&usqp=CAU",
+    "heading":"Amazon Gift",
+    "subheading":"Pay",
+    "device":"Desktop-Mobile",
+    "color":"orange"},
+    
+
+    {"date":"21 May 2022",
+        "logo":"https://static.vecteezy.com/system/resources/previews/002/520/838/original/apple-logo-black-isolated-on-transparent-background-free-vector.jpg",
+        "heading":"Apple Gift",
+        "subheading":"Payment",
+        "device":"MacOs-Mobile",
+        "color":"white"}
+]

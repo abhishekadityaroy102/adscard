@@ -1,0 +1,35 @@
+
+.main_div{
+    display: flex;
+    justify-content: space-evenly;
+    width:40%;
+    margin:auto;
+    margin-top:20px;
+    height: 360px;;
+    background-color: orange;
+}
+.image{
+  height: 40%;;
+ 
+}
+.logo_box{
+    display:flex;
+   flex-direction: column;
+   justify-content: space-between;
+    height:300px;
+    margin:auto;
+}
+.detail_div{
+    width:400px;
+    margin:auto;
+}
+.detail_div button{
+    height: 40px;;
+    width:120px;
+    background-color: black;
+    color:white;;
+}
+/* .fa-solid fa-arrow-right-long{
+    color:green;
+    border:2px solid orange
+} */
